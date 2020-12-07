@@ -19,33 +19,36 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Ontario Tech"
+  organization_url = "https://safa.ontariotechu.ca/scholarships-and-bursaries/scholarships/index.php"
+  title = "Award of Recognition Entrance Scholarship"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+
+  date_start = "2016-09-01"
   date_end = ""
-  description = ""
+  description = "Awarded $3000 towards tuition for exceptional GPA"
 
 [[item]]
-  organization = "edX"
+  organization = "Ontario Tech"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  title = "Award of Recognition In Course Scholarship"
+  url = "https://safa.ontariotechu.ca/scholarships-and-bursaries/scholarships/index.php"
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  date_start = "2019-09-01"
+  date_end = ""
+  description = "Awarded $1000 towards tuition for exceptional GPA "
 
+[[item]] #might delete and keep in projects
+ organization = "Ontario Tech & Society of Environmental Toxicology and Chemistry"
+  organization_url = "https://toronto.setac.org/"
+  title = "Poster Project displayed at SETAC 2019"
+  url_pdf = ""
+  
+  
+  date_start = "2019-11-03"
+  date_end = "2019-11-07"
+  description = "Non-lethal blood sampling from Rainbow trout in the laboratory and in situ"
+  
 +++
+
+{{% staticref "files/poster.pdf" "newtab" %}}Check out my poster{{% /staticref %}}.
