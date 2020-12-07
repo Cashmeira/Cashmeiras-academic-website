@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "Aquatic Toxicology Lab, Ontario Tech"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  location = "Oshawa, Ontario"
+  date_start = "2019-05-05"
+  date_end = "2019-09-01"
+  description = """Examined external body of fish, assisted with fish caging in local bodies of water, assisted with graphing, testing and
+analyzing data, prepared samples for proteomics and metabolomics, and assisted graduate students with their Master’s thesis projects.
+
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Analysing data
+  * Field sampling
+  * Sample preparation for proteomics
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Teaching Assistant"
+  company = "University of Western Ontario"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "London"
+  date_start = "2020-09-01"
+  date_end = "2021-05-01"
+  description = """Teaches and reviews research methods in psychology in weekly lab sessions to second year undergraduate students. Runs labs, office hours and assists with homework and content questions.
 
+  Responsibilities include:
+  
+  * Hosting weekly ZOOM meetings
+  * Grading weekly in class and homework assignments 
+  * Regularly answering emails
+  * Running office hours when needed
+  """
 +++

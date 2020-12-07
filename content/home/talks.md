@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Posters"
 subtitle = ""
 
 [content]
@@ -27,7 +27,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "poster"
     author = ""
     exclude_featured = false
     exclude_past = false
@@ -51,8 +51,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "SkyBlue"
+  gradient_end = "Aqua"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.

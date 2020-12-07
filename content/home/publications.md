@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Important Publications"
+subtitle = "Publications my current work is based on "
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -49,8 +49,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "Aqua"
+   gradient_end = "Pink"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
